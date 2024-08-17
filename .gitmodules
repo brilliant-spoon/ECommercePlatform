@@ -1,0 +1,2 @@
+[submodule "aspnet/ApiGateway"]
+	url = https://github.com/brilliant-spoon/ApiGateway
