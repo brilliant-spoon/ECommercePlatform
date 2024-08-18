@@ -4,3 +4,11 @@
 	url = https://github.com/brilliant-spoon/CatalogService
 [submodule "aspnet/InventoryService"]
 	url = https://github.com/brilliant-spoon/InventoryService
+[submodule "aspnet/ProductService"]
+	url = https://github.com/brilliant-spoon/ProductService
+[submodule "aspnet/UserService"]
+	url = https://github.com/brilliant-spoon/UserService
+[submodule "aspnet/OrderService"]
+	url = https://github.com/brilliant-spoon/OrderService
+[submodule "angular"]
+	url = https://github.com/brilliant-spoon/Angular
