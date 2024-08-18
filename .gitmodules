@@ -1,2 +1,4 @@
 [submodule "aspnet/ApiGateway"]
 	url = https://github.com/brilliant-spoon/ApiGateway
+[submodule "aspnet/CatalogService"]
+	url = https://github.com/brilliant-spoon/CatalogService
